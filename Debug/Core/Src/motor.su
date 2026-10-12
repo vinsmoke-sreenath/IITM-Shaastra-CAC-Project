@@ -1,0 +1,4 @@
+../Core/Src/motor.c:25:12:clamp_speed	16	static
+../Core/Src/motor.c:33:13:drive_motor	32	static
+../Core/Src/motor.c:57:6:Motor_Init	24	static
+../Core/Src/motor.c:73:6:Motor_Set_Speeds	24	static

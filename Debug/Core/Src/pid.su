@@ -1,0 +1,8 @@
+../Core/Src/pid.c:48:13:pid_init	32	static
+../Core/Src/pid.c:60:13:pid_reset	16	static
+../Core/Src/pid.c:66:14:pid_update	48	static
+../Core/Src/pid.c:105:14:clamp_target	16	static
+../Core/Src/pid.c:113:12:direction_changed	16	static
+../Core/Src/pid.c:120:6:PID_Init	8	static
+../Core/Src/pid.c:129:6:PID_Set_Target_RPM	16	static
+../Core/Src/pid.c:167:6:PID_Update	40	static,ignoring_inline_asm

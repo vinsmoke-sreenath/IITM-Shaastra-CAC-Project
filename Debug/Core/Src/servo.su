@@ -1,0 +1,4 @@
+../Core/Src/servo.c:35:12:set_servo_pair	32	static
+../Core/Src/servo.c:49:6:Servo_Init	16	static
+../Core/Src/servo.c:63:6:Servo_Set_S12	16	static
+../Core/Src/servo.c:68:6:Servo_Set_S34	16	static

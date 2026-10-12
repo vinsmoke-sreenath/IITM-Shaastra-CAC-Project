@@ -1,0 +1,10 @@
+../Core/Src/uart.c:43:13:remember_servo_cmd	16	static
+../Core/Src/uart.c:53:14:find_command_start	32	static
+../Core/Src/uart.c:69:13:process_command	32	static
+../Core/Src/uart.c:111:13:format_float2	32	static
+../Core/Src/uart.c:137:19:UART_Comm_Init	16	static
+../Core/Src/uart.c:145:6:UART_Comm_Check_Timeout	24	static,ignoring_inline_asm
+../Core/Src/uart.c:163:6:UART_Comm_Send_RPM	104	static
+../Core/Src/uart.c:185:6:UART_Comm_Send_IMU	128	static
+../Core/Src/uart.c:206:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/uart.c:237:6:HAL_UART_ErrorCallback	24	static

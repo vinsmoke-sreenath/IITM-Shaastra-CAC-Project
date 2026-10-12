@@ -1,0 +1,4 @@
+../Core/Src/motor.c:25:12:clamp_speed	3
+../Core/Src/motor.c:33:13:drive_motor	21
+../Core/Src/motor.c:57:6:Motor_Init	1
+../Core/Src/motor.c:73:6:Motor_Set_Speeds	1

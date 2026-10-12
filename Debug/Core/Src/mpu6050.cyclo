@@ -1,0 +1,3 @@
+../Core/Src/mpu6050.c:14:19:mpu6050_who_am_i	2
+../Core/Src/mpu6050.c:32:19:mpu6050_init	7
+../Core/Src/mpu6050.c:121:19:mpu6050_read	3
